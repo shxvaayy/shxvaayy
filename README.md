@@ -9,7 +9,7 @@
 <div align="center">
 
   <a href="https://github.com/shxvaayy">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=55&lines=Data+Analyst+%7C+AI+Product+Builder;Founder+%40+Writory+%7C+Built+Fixly+%26+JobPilot;Shipping+AI+that+does+real+work" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=600&height=55&lines=Data+Analyst+%7C+AI+Product+Builder;Founder+%40+Writory+%7C+Built+Fixly+%26+JobPilot;Shipping+AI+that+does+real+work" alt="Typing SVG" />
   </a>
 
 </div>
