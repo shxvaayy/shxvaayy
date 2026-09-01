@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "repos": {
+    "shxvaayy/calc": {
+      "head_oid": "f1014179a50abb02b77c88a87a42803987406b79",
+      "commits": 4,
+      "additions": 193,
+      "deletions": 0
+    },
+    "shxvaayy/Mentorness": {
+      "head_oid": "7e14fe9467183d9ba1e49d3f38769cc830329f7c",
+      "commits": 5,
+      "additions": 1,
+      "deletions": 0
+    },
+    "shxvaayy/OASIS-INFOBYTE": {
+      "head_oid": "c24e674967eec9758a9ef08060c4ffa65cb2f25b",
+      "commits": 4,
+      "additions": 4161,
+      "deletions": 0
+    },
+    "shxvaayy/Movie-recommendation-system": {
+      "head_oid": "c8604d9dc3046a20c95c4343f9632ae2456f7aab",
+      "commits": 6,
+      "additions": 6826,
+      "deletions": 2546
+    },
+    "shxvaayy/Codsoft": {
+      "head_oid": "d6e014818203f3ff4d89c5154fcef9f23aedc7e3",
+      "commits": 13,
+      "additions": 13172,
+      "deletions": 3293
+    },
+    "shxvaayy/Stock-price-prediction": {
+      "head_oid": "d5ffa6c894b2b70d974181bdf4080bd2f0f36c48",
+      "commits": 5,
+      "additions": 3683,
+      "deletions": 1
+    },
+    "shxvaayy/Netflix-clone": {
+      "head_oid": "2c29868262b6114969f8f11a2c7c385269624105",
+      "commits": 2,
+      "additions": 1740,
+      "deletions": 0
+    },
+    "shxvaayy/CodeAlpha": {
+      "head_oid": "d3eeb5fb75c4faf21fa7c8d6e70053fb73420235",
+      "commits": 4,
+      "additions": 204,
+      "deletions": 0
+    },
+    "shxvaayy/Weather-App": {
+      "head_oid": "3024f229673d28ddb4de80fd7ca48fbcaeccd6b7",
+      "commits": 6,
+      "additions": 4987,
+      "deletions": 0
+    },
+    "shxvaayy/Computer-Vision": {
+      "head_oid": "d00c69c645e02687362f10648dc27c8f8b57d75f",
+      "commits": 3,
+      "additions": 147,
+      "deletions": 0
+    },
+    "shxvaayy/Full-stack-poetry-contest-app": {
+      "head_oid": "24d010968be8e29f2c351da584eccb9916d16db6",
+      "commits": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    "shxvaayy/Writory-AI-tester-app": {
+      "head_oid": "8c3fba81b84aa657a44d299e76deaf3162bf5d14",
+      "commits": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    "shxvaayy/Poem-analyser": {
+      "head_oid": "f616672639eeb804d35183ac698b316bec70a644",
+      "commits": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    "shxvaayy/RESUME": {
+      "head_oid": "16ed7953a99bfeb600719b2e561b6fc9d2fb4eaa",
+      "commits": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    "shxvaayy/RBAC-Configuration-Tool": {
+      "head_oid": "437f6722cbf6fc7b4ae64d2c7e6655ae3a6fa7ed",
+      "commits": 1,
+      "additions": 1,
+      "deletions": 0
+    },
+    "shxvaayy/Arali-Extension": {
+      "head_oid": "cc8c1dd4a204ac88faf4df5403c1bdca2b9932d4",
+      "commits": 1,
+      "additions": 1,
+      "deletions": 39
+    },
+    "shxvaayy/Transcribe-arali-model": {
+      "head_oid": "e996f6d79481afb70dabbae0a889f69c6bb59db3",
+      "commits": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    "shxvaayy/Arali-Sales-coach-pro": {
+      "head_oid": "2fbf9bce47b69dd872c74193c76922df2d7496c8",
+      "commits": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    "shxvaayy/Audio-Conversion-To-speech": {
+      "head_oid": "c0d95dabe2ed81d76c9643e6466f3b02e97ab381",
+      "commits": 1,
+      "additions": 1,
+      "deletions": 0
+    },
+    "shxvaayy/GrowthAI": {
+      "head_oid": "c39a4d0fd3a6b606cfabe11dbd0c8d1bf1d10c18",
+      "commits": 145,
+      "additions": 24820,
+      "deletions": 5425
+    },
+    "shxvaayy/Stock-scanner": {
+      "head_oid": "9453b729ed08a9d45491cdfed38fff788e595107",
+      "commits": 9,
+      "additions": 2902,
+      "deletions": 156
+    },
+    "shxvaayy/Shivay-Portfolio": {
+      "head_oid": "5bf75fac6bb908a30d38e608bcf8058973a2dbe2",
+      "commits": 3,
+      "additions": 1818,
+      "deletions": 778
+    },
+    "shxvaayy/Job-ai-automation-tool": {
+      "head_oid": "2067418ed05cfdf703f12d0638f9c0f7ac93034a",
+      "commits": 1,
+      "additions": 1464,
+      "deletions": 0
+    },
+    "shxvaayy/shxvaayy": {
+      "head_oid": "d3e3c207b3981908783345d4ef1adf9449d9b91c",
+      "commits": 3,
+      "additions": 186,
+      "deletions": 1
+    },
+    "shxvaayy/RuchiGo": {
+      "head_oid": "720362569455652d5c5b7251fe9f75a3864c9075",
+      "commits": 1,
+      "additions": 75636,
+      "deletions": 0
+    },
+    "shxvaayy/RuchiGo-by-Vs-solutions": {
+      "head_oid": "c41fccdcf196ccd3749291aaffd54566a5b983f6",
+      "commits": 18,
+      "additions": 78316,
+      "deletions": 8952
+    }
+  }
+}

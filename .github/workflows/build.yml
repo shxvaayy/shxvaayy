@@ -1,0 +1,51 @@
+name: Build profile terminal
+
+on:
+  schedule:
+    - cron: "0 4 * * *" # daily, 04:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "generated/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-profile
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate SVGs
+        run: python scripts/build.py
+        env:
+          # Optional ACCESS_TOKEN secret (classic PAT with repo + read:user)
+          # improves private-contribution counts; the default GITHUB_TOKEN
+          # covers all public stats with zero setup.
+          GH_TOKEN: ${{ secrets.ACCESS_TOKEN != '' && secrets.ACCESS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Commit regenerated assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898306+github-actions[bot]@users.noreply.github.com"
+          git add generated/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: regenerate profile terminal [skip ci]"
+            git push
+          fi

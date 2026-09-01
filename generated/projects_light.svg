@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="404" viewBox="0 0 1000 404" role="img" aria-label="Shivay Mehra — selected projects">
+<style>text { font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace; font-size: 14px; }
+.title { font-size: 12px; fill: #57606a; }
+.ascii { fill: #1f2328; font-size: 7px; }
+.t { fill: #1f2328; }
+.p { fill: #0969da; }
+.k { fill: #8250df; }
+.d { fill: #c8ccd1; }
+.m { fill: #57606a; font-style: italic; }
+.b { fill: #0969da; font-weight: 600; }
+.a { fill: #1a7f37; }
+.r { fill: #cf222e; }
+.cursor { fill: #0969da; }
+.cursor { animation: blink 1.2s steps(1) infinite; }
+@keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }</style>
+<defs><clipPath id="frame"><rect x="0.5" y="0.5" width="999" height="403" rx="10"/></clipPath></defs>
+<rect x="0.5" y="0.5" width="999" height="403" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<rect clip-path="url(#frame)" x="0" y="0" width="1000" height="36" fill="#f6f8fa"/>
+<line x1="0.5" y1="36.5" x2="999.5" y2="36.5" stroke="#d0d7de"/>
+<circle cx="24" cy="18.0" r="6" fill="#ff5f56"/>
+<circle cx="46" cy="18.0" r="6" fill="#ffbd2e"/>
+<circle cx="68" cy="18.0" r="6" fill="#27c93f"/>
+<text class="title" x="500.0" y="22.0" text-anchor="middle">shivay@github: ~/projects</text>
+<text x="24.0" y="74.0" xml:space="preserve" textLength="260.4" lengthAdjust="spacing"><tspan class="p">$ </tspan><tspan class="t">ls ~/projects --sort=favorite</tspan></text>
+<text x="24.0" y="107.6" xml:space="preserve" textLength="369.6" lengthAdjust="spacing"><tspan class="d">  </tspan><tspan class="b">writory/          </tspan><tspan class="k">TypeScript · product    </tspan></text>
+<text x="24.0" y="124.4" xml:space="preserve" textLength="932.4" lengthAdjust="spacing"><tspan class="d">  └─ </tspan><tspan class="t">writing platform running national poetry and story contests, 25,000+ visitors, live at writoryofficial.com</tspan></text>
+<text x="24.0" y="158.0" xml:space="preserve" textLength="369.6" lengthAdjust="spacing"><tspan class="d">  </tspan><tspan class="b">fixly/            </tspan><tspan class="k">Next.js · AI SaaS       </tspan></text>
+<text x="24.0" y="174.8" xml:space="preserve" textLength="873.6" lengthAdjust="spacing"><tspan class="d">  └─ </tspan><tspan class="t">AI website audit that turns findings into a prioritized growth plan, OpenAI + Claude, joinfixly.com</tspan></text>
+<text x="24.0" y="208.4" xml:space="preserve" textLength="369.6" lengthAdjust="spacing"><tspan class="d">  </tspan><tspan class="b">jobpilot/         </tspan><tspan class="k">Node · agents           </tspan></text>
+<text x="24.0" y="225.2" xml:space="preserve" textLength="940.8" lengthAdjust="spacing"><tspan class="d">  └─ </tspan><tspan class="t">autonomous job agent, scans Greenhouse/Lever/Ashby boards, grades roles A to F, fills forms with Playwright</tspan></text>
+<text x="24.0" y="258.8" xml:space="preserve" textLength="546.0" lengthAdjust="spacing"><tspan class="d">  </tspan><tspan class="b">stock-scanner/    </tspan><tspan class="k">Python · data           </tspan><tspan class="m">9 commits · +2.9k LOC</tspan></text>
+<text x="24.0" y="275.6" xml:space="preserve" textLength="898.8" lengthAdjust="spacing"><tspan class="d">  └─ </tspan><tspan class="t">full NSE + BSE market screener, ~5,000 equities, live charts, movers, AI analysis, paper-trade tracker</tspan></text>
+<text x="24.0" y="309.2" xml:space="preserve" textLength="369.6" lengthAdjust="spacing"><tspan class="d">  </tspan><tspan class="b">rbac-tool/        </tspan><tspan class="k">Next.js · Supabase      </tspan></text>
+<text x="24.0" y="326.0" xml:space="preserve" textLength="714.0" lengthAdjust="spacing"><tspan class="d">  └─ </tspan><tspan class="t">roles and permissions manager with plain-English configuration powered by Gemini</tspan></text>
+<text x="24.0" y="359.6" xml:space="preserve" textLength="369.6" lengthAdjust="spacing"><tspan class="d">  </tspan><tspan class="b">shxvaayy/         </tspan><tspan class="k">Python · generative     </tspan></text>
+<text x="24.0" y="376.4" xml:space="preserve" textLength="756.0" lengthAdjust="spacing"><tspan class="d">  └─ </tspan><tspan class="t">this page, ASCII renderer, GraphQL stats, SVG compositor, redrawn daily, no templates</tspan></text>
+</svg>

@@ -1,0 +1,149 @@
+{
+  "username": "shxvaayy",
+  "display_name": "Shivay Mehra",
+  "birthdate": null,
+  "terminal_title": "shivay@github: ~",
+  "fields": {
+    "os": "macOS",
+    "host": "Writory, New Delhi",
+    "kernel": "Data | AI Agents | Full-Stack",
+    "languages": "Python, SQL, TypeScript, JavaScript",
+    "stack": "React, Node, Next.js, PostgreSQL",
+    "learning": "Advanced AI & ML, Scaler (2027)",
+    "interests": "AI agents that do real work",
+    "contact": [
+      {
+        "key": "Email",
+        "value": "shivaaymehra2@gmail.com"
+      },
+      {
+        "key": "GitHub",
+        "value": "github.com/shxvaayy"
+      },
+      {
+        "key": "Web",
+        "value": "writoryofficial.com"
+      }
+    ]
+  },
+  "ascii": {
+    "portrait": "assets/portrait.jpg",
+    "width": 115,
+    "char_aspect": 0.5,
+    "ramp_dark": "$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\\|()1{}[]?-_+~i!lI;:,\"'`. ",
+    "ramp_light": "$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\\|()1{}[]?-_+~i!lI;:,\"'`. ",
+    "bg_saturation": 0.16,
+    "bg_lum_floor": 110,
+    "min_region": 12,
+    "edge_threshold": 80,
+    "edge_char": "#",
+    "contrast_cutoff": 8,
+    "gamma": 2.6,
+    "static_art": "assets/portrait_ascii.txt",
+    "sharpen": 2.0,
+    "dither": true,
+    "structural": true
+  },
+  "svg": {
+    "canvas_width": 1000,
+    "font_size": 14,
+    "line_height": 1.2,
+    "char_width": 0.6,
+    "padding": 24,
+    "column_gap": 30,
+    "font_stack": "SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace",
+    "cursor_blink": true,
+    "ascii_font_size": 7
+  },
+  "themes": {
+    "dark": {
+      "bg": "#0d1117",
+      "border": "#30363d",
+      "titlebar": "#161b22",
+      "title_text": "#8b949e",
+      "text": "#c9d1d9",
+      "accent": "#70a5fd",
+      "key": "#bf91f3",
+      "value": "#c9d1d9",
+      "dots": "#484f58",
+      "ascii_fg": "#c9d1d9",
+      "cursor": "#70a5fd",
+      "muted": "#8b949e",
+      "add": "#3fb950",
+      "delete": "#f85149",
+      "heat": ["#161b22", "#1c2f4e", "#2c4a7c", "#4a76bd", "#70a5fd"]
+    },
+    "light": {
+      "bg": "#ffffff",
+      "border": "#d0d7de",
+      "titlebar": "#f6f8fa",
+      "title_text": "#57606a",
+      "text": "#1f2328",
+      "accent": "#0969da",
+      "key": "#8250df",
+      "value": "#1f2328",
+      "dots": "#c8ccd1",
+      "ascii_fg": "#1f2328",
+      "cursor": "#0969da",
+      "muted": "#57606a",
+      "add": "#1a7f37",
+      "delete": "#cf222e",
+      "heat": ["#ebedf0", "#c4d7f2", "#8ab4e8", "#4589d6", "#0969da"]
+    }
+  },
+  "projects": [
+    {
+      "name": "writory/",
+      "repo": "",
+      "tag": "TypeScript · product",
+      "tagline": "writing platform running national poetry and story contests, 25,000+ visitors, live at writoryofficial.com"
+    },
+    {
+      "name": "fixly/",
+      "repo": "",
+      "tag": "Next.js · AI SaaS",
+      "tagline": "AI website audit that turns findings into a prioritized growth plan, OpenAI + Claude, joinfixly.com"
+    },
+    {
+      "name": "jobpilot/",
+      "repo": "shxvaayy/Job-ai-automation-tool",
+      "tag": "Node · agents",
+      "tagline": "autonomous job agent, scans Greenhouse/Lever/Ashby boards, grades roles A to F, fills forms with Playwright"
+    },
+    {
+      "name": "stock-scanner/",
+      "repo": "shxvaayy/Stock-scanner",
+      "tag": "Python · data",
+      "tagline": "full NSE + BSE market screener, ~5,000 equities, live charts, movers, AI analysis, paper-trade tracker"
+    },
+    {
+      "name": "rbac-tool/",
+      "repo": "shxvaayy/RBAC-Configuration-Tool",
+      "tag": "Next.js · Supabase",
+      "tagline": "roles and permissions manager with plain-English configuration powered by Gemini"
+    },
+    {
+      "name": "shxvaayy/",
+      "repo": "shxvaayy/shxvaayy",
+      "tag": "Python · generative",
+      "tagline": "this page, ASCII renderer, GraphQL stats, SVG compositor, redrawn daily, no templates"
+    }
+  ],
+  "quotes": [
+    "Data beats opinions.",
+    "Ship it, then measure it.",
+    "First, solve the problem. Then, write the code.",
+    "Make it work, make it right, make it fast.",
+    "Simplicity is prerequisite for reliability.",
+    "The best error message is the one that never shows up.",
+    "Automate what you did twice."
+  ],
+  "loc": {
+    "include_forks": false,
+    "exclude_repos": [],
+    "max_pages_per_repo": 30
+  },
+  "languages": {
+    "exclude": ["Jupyter Notebook", "HTML", "CSS", "SCSS"]
+  }
+}
