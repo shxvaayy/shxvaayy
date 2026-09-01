@@ -1,14 +1,13 @@
 {
   "languages": {
-    "CSS": 84912,
-    "HTML": 457609,
-    "JavaScript": 6187651,
+    "CSS": 36354,
+    "HTML": 275122,
+    "JavaScript": 3909482,
     "Jupyter Notebook": 2470600,
-    "Python": 563714,
-    "TypeScript": 8647548,
-    "Shell": 12937,
-    "PLpgSQL": 1250,
-    "Batchfile": 1820
+    "Python": 425312,
+    "TypeScript": 308596,
+    "Shell": 2872,
+    "Batchfile": 648
   },
   "calendar": [
     {
@@ -461,7 +460,7 @@
           "date": "2025-11-07",
           "weekday": 5,
           "contributionCount": 2,
-          "contributionLevel": "FIRST_QUARTILE"
+          "contributionLevel": "SECOND_QUARTILE"
         },
         {
           "date": "2025-11-08",
@@ -541,7 +540,7 @@
           "date": "2025-11-19",
           "weekday": 3,
           "contributionCount": 4,
-          "contributionLevel": "FIRST_QUARTILE"
+          "contributionLevel": "THIRD_QUARTILE"
         },
         {
           "date": "2025-11-20",
@@ -639,7 +638,7 @@
           "date": "2025-12-04",
           "weekday": 4,
           "contributionCount": 2,
-          "contributionLevel": "FIRST_QUARTILE"
+          "contributionLevel": "SECOND_QUARTILE"
         },
         {
           "date": "2025-12-05",
@@ -1340,8 +1339,8 @@
         {
           "date": "2026-03-21",
           "weekday": 6,
-          "contributionCount": 1,
-          "contributionLevel": "FIRST_QUARTILE"
+          "contributionCount": 0,
+          "contributionLevel": "NONE"
         }
       ]
     },
@@ -1506,20 +1505,20 @@
         {
           "date": "2026-04-15",
           "weekday": 3,
-          "contributionCount": 32,
-          "contributionLevel": "FOURTH_QUARTILE"
+          "contributionCount": 0,
+          "contributionLevel": "NONE"
         },
         {
           "date": "2026-04-16",
           "weekday": 4,
-          "contributionCount": 41,
-          "contributionLevel": "FOURTH_QUARTILE"
+          "contributionCount": 0,
+          "contributionLevel": "NONE"
         },
         {
           "date": "2026-04-17",
           "weekday": 5,
-          "contributionCount": 50,
-          "contributionLevel": "FOURTH_QUARTILE"
+          "contributionCount": 0,
+          "contributionLevel": "NONE"
         },
         {
           "date": "2026-04-18",
@@ -1564,14 +1563,14 @@
         {
           "date": "2026-04-24",
           "weekday": 5,
-          "contributionCount": 9,
-          "contributionLevel": "FIRST_QUARTILE"
+          "contributionCount": 0,
+          "contributionLevel": "NONE"
         },
         {
           "date": "2026-04-25",
           "weekday": 6,
-          "contributionCount": 9,
-          "contributionLevel": "FIRST_QUARTILE"
+          "contributionCount": 0,
+          "contributionLevel": "NONE"
         }
       ]
     },
@@ -1610,8 +1609,8 @@
         {
           "date": "2026-05-01",
           "weekday": 5,
-          "contributionCount": 1,
-          "contributionLevel": "FIRST_QUARTILE"
+          "contributionCount": 0,
+          "contributionLevel": "NONE"
         },
         {
           "date": "2026-05-02",
@@ -2046,14 +2045,14 @@
         {
           "date": "2026-07-06",
           "weekday": 1,
-          "contributionCount": 10,
-          "contributionLevel": "FIRST_QUARTILE"
+          "contributionCount": 11,
+          "contributionLevel": "FOURTH_QUARTILE"
         },
         {
           "date": "2026-07-07",
           "weekday": 2,
-          "contributionCount": 1,
-          "contributionLevel": "FIRST_QUARTILE"
+          "contributionCount": 0,
+          "contributionLevel": "NONE"
         },
         {
           "date": "2026-07-08",
@@ -2071,7 +2070,7 @@
           "date": "2026-07-10",
           "weekday": 5,
           "contributionCount": 10,
-          "contributionLevel": "FIRST_QUARTILE"
+          "contributionLevel": "FOURTH_QUARTILE"
         },
         {
           "date": "2026-07-11",
@@ -2230,14 +2229,14 @@
         {
           "date": "2026-08-03",
           "weekday": 1,
-          "contributionCount": 42,
+          "contributionCount": 29,
           "contributionLevel": "FOURTH_QUARTILE"
         },
         {
           "date": "2026-08-04",
           "weekday": 2,
           "contributionCount": 7,
-          "contributionLevel": "FIRST_QUARTILE"
+          "contributionLevel": "FOURTH_QUARTILE"
         },
         {
           "date": "2026-08-05",
@@ -2420,12 +2419,6 @@
         {
           "date": "2026-09-01",
           "weekday": 2,
-          "contributionCount": 0,
-          "contributionLevel": "NONE"
-        },
-        {
-          "date": "2026-09-02",
-          "weekday": 3,
           "contributionCount": 0,
           "contributionLevel": "NONE"
         }

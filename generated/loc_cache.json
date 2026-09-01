@@ -61,18 +61,6 @@
       "additions": 147,
       "deletions": 0
     },
-    "shxvaayy/Full-stack-poetry-contest-app": {
-      "head_oid": "24d010968be8e29f2c351da584eccb9916d16db6",
-      "commits": 0,
-      "additions": 0,
-      "deletions": 0
-    },
-    "shxvaayy/Writory-AI-tester-app": {
-      "head_oid": "8c3fba81b84aa657a44d299e76deaf3162bf5d14",
-      "commits": 0,
-      "additions": 0,
-      "deletions": 0
-    },
     "shxvaayy/Poem-analyser": {
       "head_oid": "f616672639eeb804d35183ac698b316bec70a644",
       "commits": 0,
@@ -115,12 +103,6 @@
       "additions": 1,
       "deletions": 0
     },
-    "shxvaayy/GrowthAI": {
-      "head_oid": "c39a4d0fd3a6b606cfabe11dbd0c8d1bf1d10c18",
-      "commits": 145,
-      "additions": 24820,
-      "deletions": 5425
-    },
     "shxvaayy/Stock-scanner": {
       "head_oid": "9453b729ed08a9d45491cdfed38fff788e595107",
       "commits": 9,
@@ -140,10 +122,10 @@
       "deletions": 0
     },
     "shxvaayy/shxvaayy": {
-      "head_oid": "d3e3c207b3981908783345d4ef1adf9449d9b91c",
-      "commits": 3,
-      "additions": 186,
-      "deletions": 1
+      "head_oid": "9dcbd6a0a614ad1f1cfe9a438c201943728387cb",
+      "commits": 4,
+      "additions": 6174,
+      "deletions": 170
     },
     "shxvaayy/RuchiGo": {
       "head_oid": "720362569455652d5c5b7251fe9f75a3864c9075",

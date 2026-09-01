@@ -23,7 +23,7 @@
 <circle cx="68" cy="18.0" r="6" fill="#27c93f"/>
 <text class="title" x="500.0" y="22.0" text-anchor="middle">shivay@github: ~</text>
 <text x="24.0" y="74.0" xml:space="preserve" textLength="226.8" lengthAdjust="spacing"><tspan class="p">$ </tspan><tspan class="t">./activity.sh --last-year</tspan></text>
-<text x="24.0" y="107.6" xml:space="preserve" textLength="949.2" lengthAdjust="spacing"><tspan class="d">. </tspan><tspan class="k">Contributions:</tspan><tspan class="d"> ...................................................................... </tspan><tspan class="t">222 in the last 12 months</tspan></text>
+<text x="24.0" y="107.6" xml:space="preserve" textLength="949.2" lengthAdjust="spacing"><tspan class="d">. </tspan><tspan class="k">Contributions:</tspan><tspan class="d"> ....................................................................... </tspan><tspan class="t">66 in the last 12 months</tspan></text>
 <rect x="24" y="129.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="24" y="140.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="24" y="151.2" width="9" height="9" rx="2" fill="#ebedf0"/>
@@ -92,7 +92,7 @@
 <rect x="123" y="151.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="123" y="162.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="123" y="173.2" width="9" height="9" rx="2" fill="#ebedf0"/>
-<rect x="123" y="184.2" width="9" height="9" rx="2" fill="#c4d7f2"/>
+<rect x="123" y="184.2" width="9" height="9" rx="2" fill="#8ab4e8"/>
 <rect x="123" y="195.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="134" y="129.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="134" y="140.2" width="9" height="9" rx="2" fill="#ebedf0"/>
@@ -104,7 +104,7 @@
 <rect x="145" y="129.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="145" y="140.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="145" y="151.2" width="9" height="9" rx="2" fill="#ebedf0"/>
-<rect x="145" y="162.2" width="9" height="9" rx="2" fill="#c4d7f2"/>
+<rect x="145" y="162.2" width="9" height="9" rx="2" fill="#4589d6"/>
 <rect x="145" y="173.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="145" y="184.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="145" y="195.2" width="9" height="9" rx="2" fill="#ebedf0"/>
@@ -119,7 +119,7 @@
 <rect x="167" y="140.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="167" y="151.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="167" y="162.2" width="9" height="9" rx="2" fill="#ebedf0"/>
-<rect x="167" y="173.2" width="9" height="9" rx="2" fill="#c4d7f2"/>
+<rect x="167" y="173.2" width="9" height="9" rx="2" fill="#8ab4e8"/>
 <rect x="167" y="184.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="167" y="195.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="178" y="129.2" width="9" height="9" rx="2" fill="#ebedf0"/>
@@ -226,7 +226,7 @@
 <rect x="332" y="162.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="332" y="173.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="332" y="184.2" width="9" height="9" rx="2" fill="#ebedf0"/>
-<rect x="332" y="195.2" width="9" height="9" rx="2" fill="#c4d7f2"/>
+<rect x="332" y="195.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="343" y="129.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="343" y="140.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="343" y="151.2" width="9" height="9" rx="2" fill="#ebedf0"/>
@@ -251,23 +251,23 @@
 <rect x="376" y="129.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="376" y="140.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="376" y="151.2" width="9" height="9" rx="2" fill="#ebedf0"/>
-<rect x="376" y="162.2" width="9" height="9" rx="2" fill="#0969da"/>
-<rect x="376" y="173.2" width="9" height="9" rx="2" fill="#0969da"/>
-<rect x="376" y="184.2" width="9" height="9" rx="2" fill="#0969da"/>
+<rect x="376" y="162.2" width="9" height="9" rx="2" fill="#ebedf0"/>
+<rect x="376" y="173.2" width="9" height="9" rx="2" fill="#ebedf0"/>
+<rect x="376" y="184.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="376" y="195.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="387" y="129.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="387" y="140.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="387" y="151.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="387" y="162.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="387" y="173.2" width="9" height="9" rx="2" fill="#ebedf0"/>
-<rect x="387" y="184.2" width="9" height="9" rx="2" fill="#c4d7f2"/>
-<rect x="387" y="195.2" width="9" height="9" rx="2" fill="#c4d7f2"/>
+<rect x="387" y="184.2" width="9" height="9" rx="2" fill="#ebedf0"/>
+<rect x="387" y="195.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="398" y="129.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="398" y="140.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="398" y="151.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="398" y="162.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="398" y="173.2" width="9" height="9" rx="2" fill="#ebedf0"/>
-<rect x="398" y="184.2" width="9" height="9" rx="2" fill="#c4d7f2"/>
+<rect x="398" y="184.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="398" y="195.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="409" y="129.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="409" y="140.2" width="9" height="9" rx="2" fill="#ebedf0"/>
@@ -333,11 +333,11 @@
 <rect x="497" y="184.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="497" y="195.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="508" y="129.2" width="9" height="9" rx="2" fill="#ebedf0"/>
-<rect x="508" y="140.2" width="9" height="9" rx="2" fill="#c4d7f2"/>
-<rect x="508" y="151.2" width="9" height="9" rx="2" fill="#c4d7f2"/>
+<rect x="508" y="140.2" width="9" height="9" rx="2" fill="#0969da"/>
+<rect x="508" y="151.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="508" y="162.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="508" y="173.2" width="9" height="9" rx="2" fill="#ebedf0"/>
-<rect x="508" y="184.2" width="9" height="9" rx="2" fill="#c4d7f2"/>
+<rect x="508" y="184.2" width="9" height="9" rx="2" fill="#0969da"/>
 <rect x="508" y="195.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="519" y="129.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="519" y="140.2" width="9" height="9" rx="2" fill="#ebedf0"/>
@@ -362,7 +362,7 @@
 <rect x="541" y="195.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="552" y="129.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="552" y="140.2" width="9" height="9" rx="2" fill="#0969da"/>
-<rect x="552" y="151.2" width="9" height="9" rx="2" fill="#c4d7f2"/>
+<rect x="552" y="151.2" width="9" height="9" rx="2" fill="#0969da"/>
 <rect x="552" y="162.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="552" y="173.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="552" y="184.2" width="9" height="9" rx="2" fill="#ebedf0"/>
@@ -391,7 +391,6 @@
 <rect x="596" y="129.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="596" y="140.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="596" y="151.2" width="9" height="9" rx="2" fill="#ebedf0"/>
-<rect x="596" y="162.2" width="9" height="9" rx="2" fill="#ebedf0"/>
 <text class="m" x="24" y="221.0">less</text>
 <rect x="65.6" y="212.0" width="9" height="9" rx="2" fill="#ebedf0"/>
 <rect x="78.6" y="212.0" width="9" height="9" rx="2" fill="#c4d7f2"/>
@@ -399,9 +398,9 @@
 <rect x="104.6" y="212.0" width="9" height="9" rx="2" fill="#4589d6"/>
 <rect x="117.6" y="212.0" width="9" height="9" rx="2" fill="#0969da"/>
 <text class="m" x="138.6" y="221.0">more</text>
-<text x="635.0" y="141.2" xml:space="preserve" textLength="319.2" lengthAdjust="spacing"><tspan class="k">TypeScript      </tspan><tspan class="p">████████████████</tspan><tspan class="d"></tspan><tspan class="m"> 56.1%</tspan></text>
-<text x="635.0" y="158.0" xml:space="preserve" textLength="319.2" lengthAdjust="spacing"><tspan class="k">JavaScript      </tspan><tspan class="p">███████████</tspan><tspan class="d">░░░░░</tspan><tspan class="m"> 40.1%</tspan></text>
-<text x="635.0" y="174.8" xml:space="preserve" textLength="319.2" lengthAdjust="spacing"><tspan class="k">Python          </tspan><tspan class="p">█</tspan><tspan class="d">░░░░░░░░░░░░░░░</tspan><tspan class="m">  3.7%</tspan></text>
+<text x="635.0" y="141.2" xml:space="preserve" textLength="319.2" lengthAdjust="spacing"><tspan class="k">JavaScript      </tspan><tspan class="p">████████████████</tspan><tspan class="d"></tspan><tspan class="m"> 84.1%</tspan></text>
+<text x="635.0" y="158.0" xml:space="preserve" textLength="319.2" lengthAdjust="spacing"><tspan class="k">Python          </tspan><tspan class="p">██</tspan><tspan class="d">░░░░░░░░░░░░░░</tspan><tspan class="m">  9.2%</tspan></text>
+<text x="635.0" y="174.8" xml:space="preserve" textLength="319.2" lengthAdjust="spacing"><tspan class="k">TypeScript      </tspan><tspan class="p">█</tspan><tspan class="d">░░░░░░░░░░░░░░░</tspan><tspan class="m">  6.6%</tspan></text>
 <text x="635.0" y="191.6" xml:space="preserve" textLength="319.2" lengthAdjust="spacing"><tspan class="k">Shell           </tspan><tspan class="p">█</tspan><tspan class="d">░░░░░░░░░░░░░░░</tspan><tspan class="m">  0.1%</tspan></text>
 <text x="635.0" y="208.4" xml:space="preserve" textLength="319.2" lengthAdjust="spacing"><tspan class="k">Batchfile       </tspan><tspan class="p">█</tspan><tspan class="d">░░░░░░░░░░░░░░░</tspan><tspan class="m">  0.0%</tspan></text>
 <text x="24" y="247.9" xml:space="preserve" textLength="16.8" lengthAdjust="spacing"><tspan class="p">$ </tspan></text>
