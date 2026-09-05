@@ -81,7 +81,7 @@
 <text x="537.0" y="124.4" xml:space="preserve" textLength="436.8" lengthAdjust="spacing"><tspan class="d">. </tspan><tspan class="k">OS:</tspan><tspan class="d"> ........................................ </tspan><tspan class="t">macOS</tspan></text>
 <text x="537.0" y="141.2" xml:space="preserve" textLength="436.8" lengthAdjust="spacing"><tspan class="d">. </tspan><tspan class="k">Host:</tspan><tspan class="d"> ......................... </tspan><tspan class="t">Writory, New Delhi</tspan></text>
 <text x="537.0" y="158.0" xml:space="preserve" textLength="436.8" lengthAdjust="spacing"><tspan class="d">. </tspan><tspan class="k">Kernel:</tspan><tspan class="d"> ............ </tspan><tspan class="t">Data | AI Agents | Full-Stack</tspan></text>
-<text x="537.0" y="174.8" xml:space="preserve" textLength="436.8" lengthAdjust="spacing"><tspan class="d">. </tspan><tspan class="k">Uptime:</tspan><tspan class="d"> .............. </tspan><tspan class="t">23 years, 0 months, 27 days</tspan></text>
+<text x="537.0" y="174.8" xml:space="preserve" textLength="436.8" lengthAdjust="spacing"><tspan class="d">. </tspan><tspan class="k">Uptime:</tspan><tspan class="d"> .............. </tspan><tspan class="t">23 years, 0 months, 28 days</tspan></text>
 <text x="537.0" y="191.6" xml:space="preserve" textLength="436.8" lengthAdjust="spacing"><tspan class="d">. </tspan><tspan class="k">Languages:</tspan><tspan class="d"> ... </tspan><tspan class="t">Python, SQL, TypeScript, JavaScript</tspan></text>
 <text x="537.0" y="208.4" xml:space="preserve" textLength="436.8" lengthAdjust="spacing"><tspan class="d">. </tspan><tspan class="k">Stack:</tspan><tspan class="d"> .......... </tspan><tspan class="t">React, Node, Next.js, PostgreSQL</tspan></text>
 <text x="537.0" y="225.2" xml:space="preserve" textLength="436.8" lengthAdjust="spacing"><tspan class="d">. </tspan><tspan class="k">Learning:</tspan><tspan class="d"> ........ </tspan><tspan class="t">Advanced AI &amp; ML, Scaler (2027)</tspan></text>
@@ -98,5 +98,5 @@
 <text x="537.0" y="443.6" xml:space="preserve" textLength="428.4" lengthAdjust="spacing"><tspan class="d">. </tspan><tspan class="k">Lines of Code:</tspan><tspan class="d"> ...... </tspan><tspan class="t">211,540</tspan><tspan class="d"> (</tspan><tspan class="a">+227,588</tspan><tspan class="d">, </tspan><tspan class="r">-16,048</tspan><tspan class="d">)</tspan></text>
 <text x="537.0" y="477.2" xml:space="preserve" textLength="16.8" lengthAdjust="spacing"><tspan class="p">$ </tspan></text>
 <rect class="cursor" x="553.8" y="465.2" width="8.4" height="16"/>
-<text class="m" x="500.0" y="533.8" text-anchor="middle">// The best error message is the one that never shows up.</text>
+<text class="m" x="500.0" y="533.8" text-anchor="middle">// Automate what you did twice.</text>
 </svg>
