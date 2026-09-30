@@ -1,13 +1,16 @@
 {
   "languages": {
-    "CSS": 39185,
-    "HTML": 275122,
-    "JavaScript": 3900852,
+    "CSS": 343152,
+    "HTML": 277509,
+    "JavaScript": 4063810,
     "Jupyter Notebook": 2470600,
     "Python": 434857,
-    "TypeScript": 839273,
+    "TypeScript": 2549921,
     "Shell": 2872,
-    "Batchfile": 648
+    "Batchfile": 648,
+    "Swift": 4293,
+    "Dockerfile": 995,
+    "Java": 141
   },
   "calendar": [
     {
@@ -2419,8 +2422,14 @@
         {
           "date": "2026-09-29",
           "weekday": 2,
-          "contributionCount": 1,
+          "contributionCount": 3,
           "contributionLevel": "FIRST_QUARTILE"
+        },
+        {
+          "date": "2026-09-30",
+          "weekday": 3,
+          "contributionCount": 4,
+          "contributionLevel": "SECOND_QUARTILE"
         }
       ]
     }
