@@ -122,7 +122,7 @@
       "deletions": 0
     },
     "shxvaayy/shxvaayy": {
-      "head_oid": "8a795c2db330b9891dc4e5db5be12c45f9af6927",
+      "head_oid": "4f34eef16d289f83d9c197bb0f5b72bcee3243b5",
       "commits": 5,
       "additions": 6287,
       "deletions": 283
@@ -146,10 +146,10 @@
       "deletions": 0
     },
     "shxvaayy/VS-PartnerHub": {
-      "head_oid": "dff4c41774d7c60e0489a8181e8a21e7ea466ea1",
-      "commits": 24,
-      "additions": 89088,
-      "deletions": 3413
+      "head_oid": "5ff0ab33a439c51fe1df5fee35f87ac8951a23ac",
+      "commits": 59,
+      "additions": 103553,
+      "deletions": 4735
     }
   }
 }
